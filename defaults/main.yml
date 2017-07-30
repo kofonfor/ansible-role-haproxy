@@ -4,3 +4,4 @@ haproxy_timeout_check: 10s
 haproxy_timeout_client: 1m
 haproxy_timeout_connect: 10s
 haproxy_timeout_server: 1m
+haproxy_frontends: []
