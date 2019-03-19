@@ -6,3 +6,4 @@ haproxy_timeout_connect: 10s
 haproxy_timeout_server: 1m
 haproxy_frontends: []
 tcp_services: []
+haproxy_patroni_frontend_port: 5432
